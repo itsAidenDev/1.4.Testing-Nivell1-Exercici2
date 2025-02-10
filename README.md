@@ -8,7 +8,7 @@ This Java project solves the following exercise:
 "Create a class called CalculateDNI that calculates the letter of the DNI when receiving the number as a parameter.
 Create a jUnit class that verifies its correct functioning, parameterizing it so that the test receives a wide data spectrum and validates if the calculation is correct for 10 predefined ID numbers".
 
-The goal is to practice algorithm implementation and unit testing in Java, focusing on both functional logic and testing best practices.
+The goal is to practice **algorithm implementation** and **unit testing** in Java, focusing on both functional logic and testing best practices.
 
 
 ## Technologies used 💻
